@@ -1,0 +1,37 @@
+/* a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    display: inline-block;
+    margin-left: 20px;
+}
+.parent{
+    display: flex;
+    border: 1px groove black;
+    background-color: cadetblue;
+    
+    
+}
+.items{
+ margin-left: 900px;
+    
+} */
+/* #lname{
+    margin-top: 10px;
+} */
+#num2{
+    margin-top: 10px;
+}
+
+#output{
+    color:darkgreen;
+}
+#img{
+    height: 100px;
+    width: 100px;
+}
+#para{
+    color: white;
+    background-color: black;
+}
